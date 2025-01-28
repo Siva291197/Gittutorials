@@ -25,6 +25,7 @@ To switch from one branch to another              --> git checkout <destination 
 To merge sub branches to main branch              --> git merge <sub branch name>
 To get the history of commands executed in Git    --> git log
 To get the last 3 history of cmds executed        --> git log -p -3
+To remove a file                                  --> git rm <filename>
 
 
 Git clone can be used to track any new files that are getting created. However, any changes made in the contents of the existing files will be tracked only in the main location from where it is getting cloned.
