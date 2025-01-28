@@ -30,3 +30,4 @@ To remove a file                                  --> git rm <filename>
 
 Git clone can be used to track any new files that are getting created. However, any changes made in the contents of the existing files will be tracked only in the main location from where it is getting cloned.
 
+Comment added by Developer B
