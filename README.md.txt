@@ -17,6 +17,8 @@ To push the files from stage to main              --> git push origin main
 To clone our repository to a different local      --> git clone https://github.com/Siva291197/Gittutorials.git
 git pull
 git pull origin main
+Difference of what is changed but not staged      --> git diff
+Difference of what is staged but not committed    --> git diff --staged
 
 
 Git clone can be used to track any new files that are getting created. However, any changes made in the contents of the existing files will be tracked only in the main location from where it is getting cloned.
