@@ -15,10 +15,9 @@ To assign a Github repository to a local folder   --> git remote add origin http
 To check the origin                               --> git remote -v
 To push the files from stage to main              --> git push origin main
 To clone our repository to a different local      --> git clone https://github.com/Siva291197/Gittutorials.git
+git pull
+git pull origin main
 
 
-<<<<<<< HEAD
 Git clone can be used to track any new files that are getting created. However, any changes made in the contents of the existing files will be tracked only in the main location from where it is getting cloned.
-=======
-Git clone can be used to track any new files that are getting created. However, any changes made in the contents of the existing files will be tracked only in the main location from where it is getting cloned.
->>>>>>> ba85615f96cd8355a5396ecdf067346ee86bb0e0
+
