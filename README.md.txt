@@ -19,6 +19,12 @@ git pull
 git pull origin main
 Difference of what is changed but not staged      --> git diff
 Difference of what is staged but not committed    --> git diff --staged
+To get the current branch/list of branches        --> git branch
+To create a new branch                            --> git branch <branchname>
+To switch from one branch to another              --> git checkout <destination branch>
+To merge sub branches to main branch              --> git merge <sub branch name>
+To get the history of commands executed in Git    --> git log
+To get the last 3 history of cmds executed        --> git log -p -3
 
 
 Git clone can be used to track any new files that are getting created. However, any changes made in the contents of the existing files will be tracked only in the main location from where it is getting cloned.
