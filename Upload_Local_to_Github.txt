@@ -1,0 +1,119 @@
+C:\Users\003HL1744>cd C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction>git clone https://github.com/Siva291197/Insurance-Premium-Prediction.git
+Cloning into 'Insurance-Premium-Prediction'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction>cd C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Insurance Cost Prediction Web App.ipynb
+        Insurance Cost Prediction.ipynb
+        LassoRegPoly.pkl
+        OneHotEncoder.pkl
+        Polynomial.pkl
+        StandardScaler.pkl
+        Templates/
+        insurance.csv
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .ipynb_checkpoints/
+        Insurance Cost Prediction Web App.ipynb
+        Insurance Cost Prediction.ipynb
+        LassoRegPoly.pkl
+        OneHotEncoder.pkl
+        Polynomial.pkl
+        StandardScaler.pkl
+        Templates/
+        insurance.csv
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git add .
+warning: in the working copy of '.ipynb_checkpoints/Insurance Cost Prediction Web App-checkpoint.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.ipynb_checkpoints/Insurance Cost Prediction-checkpoint.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Insurance Cost Prediction Web App.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Insurance Cost Prediction.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Templates/Parameters.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Templates/home.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'insurance.csv', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .ipynb_checkpoints/Insurance Cost Prediction Web App-checkpoint.ipynb
+        new file:   .ipynb_checkpoints/Insurance Cost Prediction-checkpoint.ipynb
+        new file:   Insurance Cost Prediction Web App.ipynb
+        new file:   Insurance Cost Prediction.ipynb
+        new file:   LassoRegPoly.pkl
+        new file:   OneHotEncoder.pkl
+        new file:   Polynomial.pkl
+        new file:   StandardScaler.pkl
+        new file:   Templates/Parameters.html
+        new file:   Templates/home.html
+        new file:   insurance.csv
+
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git commit -m "Upload from local to GitHub"
+[main 4cedb58] Upload from local to GitHub
+ 11 files changed, 30740 insertions(+)
+ create mode 100644 .ipynb_checkpoints/Insurance Cost Prediction Web App-checkpoint.ipynb
+ create mode 100644 .ipynb_checkpoints/Insurance Cost Prediction-checkpoint.ipynb
+ create mode 100644 Insurance Cost Prediction Web App.ipynb
+ create mode 100644 Insurance Cost Prediction.ipynb
+ create mode 100644 LassoRegPoly.pkl
+ create mode 100644 OneHotEncoder.pkl
+ create mode 100644 Polynomial.pkl
+ create mode 100644 StandardScaler.pkl
+ create mode 100644 Templates/Parameters.html
+ create mode 100644 Templates/home.html
+ create mode 100644 insurance.csv
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git remote -v
+origin  https://github.com/Siva291197/Insurance-Premium-Prediction.git (fetch)
+origin  https://github.com/Siva291197/Insurance-Premium-Prediction.git (push)
+
+C:\Users\003HL1744\Desktop\Data Science\Krish Naik_Udemy\Complete ML_DL_NLP_MLOPs\Linear Regression\Medical Insurance Cost Prediction\Insurance-Premium-Prediction>git push origin main
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (14/14), 2.30 MiB | 940.00 KiB/s, done.
+Total 14 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Siva291197/Insurance-Premium-Prediction.git
+   3c31f56..4cedb58  main -> main
